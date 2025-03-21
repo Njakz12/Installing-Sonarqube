@@ -17,7 +17,7 @@ chown -R sonaradmin:sonaradmin sonarqube-10.4.1.88267
 
 cd sonarqube-10.4.1.88267/
 
-cd bin/
+cd bin/    
 
 cd linux-x86-64
 
