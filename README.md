@@ -1,5 +1,6 @@
 # Sonarqube
 ## Create user sonarqube user in the root user interactive 
+Make java is installed
 
 Install sonarqube using the root user
 
