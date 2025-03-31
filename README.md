@@ -1,5 +1,16 @@
+
+
+
+![image](https://github.com/user-attachments/assets/5110c26f-225a-4b10-9985-20d21db4099d)
+
+
+
+
+
+
 # Sonarqube
 ## Create user sonarqube user in the root user interactive 
+
 Make java is installed
 
 Install sonarqube using the root user
